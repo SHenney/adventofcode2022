@@ -1,6 +1,8 @@
 ﻿using adventofcode2022.day_1;
 using adventofcode2022.day_2;
 using adventofcode2022.day_3;
+using adventofcode2022.day_4;
+
 DotNetEnv.Env.TraversePath().Load(); //Load from .env file
 
 //Day 1
@@ -26,3 +28,7 @@ Console.WriteLine($"And the solution is: {answer2_2}");
 
 //Day 3
 D3_Rucksack.SolvePuzzle();
+
+
+//Day 4
+D4_CampCleanup.SolvePuzzle();
