@@ -2,7 +2,7 @@ using adventofcode2022.day_1;
 
 namespace adventofcode2022tests
 {
-    public class Day1Tests
+    public class D1_tests
     {
         static object[] topCalorieScenarios =
         {
