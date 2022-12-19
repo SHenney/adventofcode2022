@@ -1,13 +1,4 @@
-﻿using adventofcode2022.input;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace adventofcode2022.day_5
+﻿namespace adventofcode2022.day_5
 {
     public class CargoCrane
     {
