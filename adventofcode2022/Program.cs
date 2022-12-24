@@ -1,4 +1,5 @@
 ﻿using adventofcode2022.day_1;
+using adventofcode2022.day_10;
 using adventofcode2022.day_2;
 using adventofcode2022.day_3;
 using adventofcode2022.day_4;
@@ -6,6 +7,7 @@ using adventofcode2022.day_5;
 using adventofcode2022.day_6;
 using adventofcode2022.day_7;
 using adventofcode2022.day_8;
+using adventofcode2022.day_9;
 
 DotNetEnv.Env.TraversePath().Load(); //Load from .env file
 
@@ -48,3 +50,9 @@ D7_DeviceFull.SolvePuzzle();
 
 //Day 8
 D8_TreeHouse.SolvePuzzle();
+
+//Day 9
+D9_RopeBridge.SolvePuzzle();
+
+//Day 10
+D10_CathodeRayTube.SolvePuzzle();
