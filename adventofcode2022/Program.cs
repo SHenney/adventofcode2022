@@ -1,4 +1,5 @@
 ﻿using adventofcode2022.day_1;
+using adventofcode2022.day_10;
 using adventofcode2022.day_2;
 using adventofcode2022.day_3;
 using adventofcode2022.day_4;
@@ -52,3 +53,6 @@ D8_TreeHouse.SolvePuzzle();
 
 //Day 9
 D9_RopeBridge.SolvePuzzle();
+
+//Day 10
+D10_CathodeRayTube.SolvePuzzle();
